@@ -1,8 +1,10 @@
 # SpacesRail
 
 A horizontal pager for a macOS sidebar, driven by two finger scroll, with a row
-of icons underneath that marks the current page and moves with the gesture.
-Used in [Nexion](https://nexion.one) for its spaces; the app depends on this
+of icons underneath that marks the current page and moves with the gesture. The
+spaces interaction from Arc, in SwiftUI.
+
+Used in [Nexion](https://nexion.one) for its own spaces; the app depends on this
 package rather than on a copy of it.
 
 ![The demo: swiping between five spaces, scrolling a list, reordering the rail](docs/demo.gif)
